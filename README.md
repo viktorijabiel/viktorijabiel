@@ -1,6 +1,7 @@
 - 👋 Hello world, I’m @viktorijabiel
-- 🫶 I found love in data analysis, visualization, and management science
-- 📚 My phd research focus is on value capture in the EdTech ecosystems
+- 🫶 I found love in data analysis, visualization, and marketing science
+- 📈 I teach Marketing Analytics
+- 📚 My phd research focus is on value capture in the ecosystem of digital business platforms
 
 
 
