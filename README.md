@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m @viktorijabiel
 - 🫶 I found love in data analysis, visualization, and marketing science
-- 📈 I teach Marketing Analytics
+- 📈 I teach Marketing Analytics & Business Intelligence courses
 - 📚 My phd research focus is on value capture in the ecosystem of digital business platforms
 
 
